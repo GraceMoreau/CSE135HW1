@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Grace's Page</title>
+  <link rel="icon" type="image/x-icon" href="favicon-32x32">
+</head>
+<body>
+
+<h1 style="background-color:mediumseagreen;">Grace Moreau</h1>
+<p>Hi I am 
+  <a onmouseover="document.bgColor='black'; this.style.color='white'" onmouseleave="document.bgColor='white'; this.style.color='black'">Grace</a>, a 3rd year Computer Science major at UCSD.  I know <a href="/../members/philipjohnson">Phil</a> and <a href="/../members/markkemper">Mark</a>. 
+</p>
+
+</body>
+</html>

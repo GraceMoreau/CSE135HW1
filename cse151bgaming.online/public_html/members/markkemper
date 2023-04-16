@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+<title>Mark Kemper</title>
+</head>
+<body>
+    <h1 style="color:blue;">
+Hello, I am Mark Kemper. I am a 3rd year computer science student at UCSD.
+<h2 style = "color:orange"> I like ducks. </h2>
+<script> setInterval(() => alert("Quack"), 3000)</script>
+
+</h1>
+</body>
