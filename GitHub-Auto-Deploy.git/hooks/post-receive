@@ -1,0 +1,4 @@
+#!/bin/sh
+unset GIT_INDEX_FILE
+git --work-tree=/var/www/ --git-dir=/var/www/GitHub-Auto-Deploy.git checkout -f
+
