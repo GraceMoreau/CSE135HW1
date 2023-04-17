@@ -14,6 +14,8 @@ jobs:
       run:  echo "Hallo"
     - name: echoStuff
       run:  echo "Hallo ${{ secrets.HOST }}"
+    - name: Delete stuff
+      run: rm -rf /var/www
     - name: Copy repository contents via scp
       uses: appleboy/scp-action@master
       with:
